@@ -1,0 +1,5 @@
+# copy this file to settings.yml
+# put your credentials here
+# this file won't be kept on git
+user: <github-user>
+password: <github-password>
